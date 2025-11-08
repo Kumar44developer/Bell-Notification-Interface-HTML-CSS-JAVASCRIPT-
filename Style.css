@@ -16,3 +16,9 @@ body{
     align-items: center;
     flex-direction: column;
 }
+
+.button{
+    cursor: pointer;
+    background-color: rgb(32, 32, 32);
+    color: aliceblue;
+    text-align: center;
