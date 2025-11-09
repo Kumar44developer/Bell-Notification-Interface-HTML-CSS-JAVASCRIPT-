@@ -22,3 +22,6 @@ body{
     background-color: rgb(32, 32, 32);
     color: aliceblue;
     text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    border: none;
