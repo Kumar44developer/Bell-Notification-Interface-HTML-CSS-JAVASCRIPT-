@@ -47,7 +47,9 @@ body{
     position: relative;
     color: #f2f2f2;
 }
-
+.notification::after{
+    min-width: 20px;
+    height: 20px;
 
 
 
