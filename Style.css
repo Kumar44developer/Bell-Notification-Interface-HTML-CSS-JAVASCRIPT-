@@ -28,6 +28,9 @@ body{
     outline: none;
     box-shadow: 5px 5px 0px rgba(0, 0, 0, 0.1);
     z-index: 999;
+    transition: 0.5s;
+    font-size: 2rem;
+}
 
 
 
