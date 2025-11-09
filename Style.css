@@ -35,7 +35,8 @@ body{
 
 .button:active{
     transform: translateY(10%) translateX(10%);
- 
+      box-shadow: 0px 0px 0px #fff;
+}
 
 
 
