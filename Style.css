@@ -59,6 +59,10 @@ body{
     top: -5px;
     right: 5px;
     transition: 0.3s;
+    border-radius: 50%;
+    opacity: 0;
+    transform: scale(0.5);
+}
 
 
 
