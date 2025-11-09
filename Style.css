@@ -43,6 +43,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    height: inherit;
+    position: relative;
+    color: #f2f2f2;
+}
 
 
 
