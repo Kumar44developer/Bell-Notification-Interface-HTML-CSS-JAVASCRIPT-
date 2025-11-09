@@ -50,6 +50,11 @@ body{
 .notification::after{
     min-width: 20px;
     height: 20px;
+    content: attr(data-count);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(236, 36, 170);
 
 
 
