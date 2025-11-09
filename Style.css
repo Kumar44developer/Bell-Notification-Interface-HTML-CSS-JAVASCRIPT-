@@ -69,7 +69,9 @@ body{
     font-family: "FontAwesome";
     display: block;
     color: black;
-
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
 
 
 
