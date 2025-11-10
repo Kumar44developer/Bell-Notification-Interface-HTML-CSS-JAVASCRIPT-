@@ -79,6 +79,8 @@ body{
 
 .notification.notify::before{
     animation:bell 1s ease-out;
+    transform-origin: center top ;
+}
 
 
 
