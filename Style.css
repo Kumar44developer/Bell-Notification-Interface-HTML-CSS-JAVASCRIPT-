@@ -85,6 +85,9 @@ body{
     0% {
       transform: rotate(40deg);
     }
+     12.5% {
+      transform: rotate(-35deg);
+    }
 
 
 
