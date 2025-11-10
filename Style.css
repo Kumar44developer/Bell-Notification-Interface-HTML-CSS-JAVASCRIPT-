@@ -77,4 +77,15 @@ body{
    transform: scale(1);  
 }
 
+.notification.notify::before{
+    animation:bell 1s ease-out;
+
+
+
+
+
+
+
+
+
     
