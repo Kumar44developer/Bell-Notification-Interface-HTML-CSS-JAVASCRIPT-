@@ -74,6 +74,7 @@ body{
 }
 .notification.count::after{
    opacity: 1;
-
+   transform: scale(1);  
+}
 
     
