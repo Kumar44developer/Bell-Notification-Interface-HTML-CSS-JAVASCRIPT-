@@ -7,3 +7,4 @@ function updateScrollIndicator(){
     scrollIndicator.style.width = scrollPercentage + "%";
 }
 window.addEventListener("scroll",updateScrollIndicator);
+updateScrollIndicator();
