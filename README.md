@@ -15,3 +15,8 @@ This project simulates real-time notification behavior with a modern bell icon, 
 
 🧩 Easily Reusable Component—can be plugged into any website
 
+WORKING 
+
+JavaScript increments the notification count whenever the button is clicked
+
+CSS updates the red badge using data-count attribute
