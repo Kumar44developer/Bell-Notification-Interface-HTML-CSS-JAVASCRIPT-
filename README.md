@@ -9,4 +9,9 @@ This project simulates real-time notification behavior with a modern bell icon, 
 
 🔢 Dynamic Notification Counter (badge increases as notifications arrive)
 
+⚡ Pure Frontend Implementation (HTML + CSS + JavaScript only)
+
+📱 Responsive Design
+
+🧩 Easily Reusable Component—can be plugged into any website
 
