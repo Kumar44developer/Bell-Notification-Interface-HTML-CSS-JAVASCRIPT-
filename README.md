@@ -20,3 +20,11 @@ WORKING
 JavaScript increments the notification count whenever the button is clicked
 
 CSS updates the red badge using data-count attribute
+
+A bell animation (@keyframes bell) is triggered for each new notification
+
+CSS pseudo-elements (::before, ::after) are used for:
+
+Rendering the bell icon
+
+Displaying the notification badge
